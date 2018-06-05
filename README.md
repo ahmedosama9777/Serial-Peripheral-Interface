@@ -1,2 +1,8 @@
 # Serial-Peripheral-Interface
-Master/Slave communication protocol
+
+INTRODUCTION
+
+------------
+
+
+Communication between Master and multiple Slaves with Slave Select.
