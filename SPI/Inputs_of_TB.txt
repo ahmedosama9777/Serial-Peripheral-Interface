@@ -1,0 +1,22 @@
+
+add wave -position 2  sim:/SPI_TB/SPI/M1/SCK
+add wave -position end  sim:/SPI_TB/SPI/M1/Master_Data
+add wave -position end  sim:/SPI_TB/SPI/M1/MOSI
+add wave -position end  sim:/SPI_TB/SPI/M1/MISO
+add wave -position end  sim:/SPI_TB/SPI/M1/Count_2Bytes
+add wave -position end  sim:/SPI_TB/SPI/M1/Clk_Count
+add wave -position end  sim:/SPI_TB/SPI/s1/state_reg22
+add wave -position end  sim:/SPI_TB/SPI/s1/state_reg21
+add wave -position end  sim:/SPI_TB/SPI/s1/state_reg12
+add wave -position end  sim:/SPI_TB/SPI/s1/state_reg11
+
+
+add wave -position end  sim:/SPI_TB/SPI/s2/state_reg22
+add wave -position end  sim:/SPI_TB/SPI/s2/state_reg21
+add wave -position end  sim:/SPI_TB/SPI/s2/state_reg12
+add wave -position end  sim:/SPI_TB/SPI/s2/state_reg11
+
+add wave -position end  sim:/SPI_TB/SPI/s4/state_reg22
+add wave -position end  sim:/SPI_TB/SPI/s4/state_reg21
+add wave -position end  sim:/SPI_TB/SPI/s4/state_reg12
+add wave -position end  sim:/SPI_TB/SPI/s4/state_reg11
